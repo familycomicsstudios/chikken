@@ -9,13 +9,13 @@
 ## 2. Setup
 2.1. **Initial Pieces.** Each player shall commence the game with the following pieces, arranged as specified below:
 - **Chickens (c for East, C for West):** 8 pieces, aligned in the second row.
-- **Roosters (r for East, R for West):** 6 pieces, positioned on the edges of the first row.
-- **Dog (d for East, D for West):** 1 piece, placed in the left-middle of the first row.
-- **Wolf (w for East, W for West):** 1 piece, placed in the right-middle of the first row.
+- **Roosters (r for East, R for West):** 6 pieces, positioned on the edges of the first row, on rows a, b, c, f, g, and h.
+- **Dog (d for East, D for West):** 1 piece, placed in the left-middle of the first row, on row d.
+- **Wolf (w for East, W for West):** 1 piece, placed in the right-middle of the first row, on row e.
 
 2.2. **Board Notation.**  
 - The board shall be notated analogously to chess.  
-- East’s bottom-left square shall be designated as **a1**.  
+- East’s bottom-left square shall be designated as **a1**. This is the bottom-left of the entire game board.
 - The files (columns) are labeled **a–h** (from bottom to top) and the ranks (rows) are numbered **1–8** (from left to right).
 
 ## 3. Movement Rules
@@ -30,8 +30,8 @@
 ### 3.2.2. Rooster (r/R)
 - **Movement:** A Rooster may move to any square that is reachable by moving orthogonally (i.e., without moving diagonally) and without passing through any intervening pieces.
 - **Push Ability:**  
-  a. A Rooster may push one adjacent piece in the same direction as its movement.  
-  b. The act of pushing shall conclude the Rooster's turn.  
+  a. A Rooster may push one adjacent piece one square in the same direction as its movement. This can be horizontal or vertical.
+  b. The act of pushing shall conclude the Rooster's turn, with the pushing being the last move the Rooster makes. Roosters can move any number of squares before pushing.
   c. A push is permitted only if the piece being pushed would not be displaced into a square already occupied by another piece.  
   d. A Rooster is prohibited from pushing a piece that is itself a Rooster or a Chicken.
 
@@ -39,14 +39,14 @@
 - **Movement:** A Dog may move one square per turn in any direction.
 - **Victory Objective:** The Dog's advancement to the opponent's back rank constitutes an immediate win for its owner (see Section 5).
 - **Push Ability:**  
-  a. A Dog may push any adjacent piece in any direction.  
+  a. A Dog may push any adjacent piece one square in any direction.
   b. The act of pushing shall conclude the Dog's turn.  
   c. A push is permitted only if the pushed piece would not be displaced into a square already occupied by another piece.
 
 ### 3.2.4. Wolf (w/W)
 - **Movement:** A Wolf may move one square per turn in any direction.
 - **Capture Ability:**  
-  a. A Wolf may remove (capture) any Chicken or Rooster by moving into its square.  
+  a. A Wolf may remove (capture) any Chicken or Rooster by moving into its square. Moving into this square requires you to remove the piece, but moving into the piece is never required.
   b. A Wolf is expressly prohibited from capturing (i.e., “eating”) Dogs or other Wolves.
 
 ## 4. Notation
@@ -68,7 +68,9 @@
 ## 6. Draws and Stalemate
 6.1. **Stalemate.** If, on a player’s turn, no legal moves are available and the player is not in a position to lose by the victory conditions, the game shall be declared a draw, in a manner analogous to the stalemate rule in chess.
 
-6.2. **Threefold Repetition.** If the identical board position occurs on three separate occasions during the game, the game shall be declared a draw.
+6.2. **Threefold Repetition.** If the identical board position occurs on three consecutive occasions during the game, the game shall be declared a draw.
+
+6.3. **Draw.** If both players decide there is no point in the game continuing (e.g. boredom, unwinnable state), they can both choose to end the game as a draw. A draw is only valid if both players agree.
 
 ## 7. General Provisions
 7.1. **Legality of Moves.** All moves must strictly adhere to the provisions of this rulebook. Any move that contravenes these rules shall be deemed illegal.
