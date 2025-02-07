@@ -77,3 +77,5 @@ Moves are recorded in chess notation, with the East player’s bottom-left squar
 - Stalemate: If a player has no legal moves but is not in a losing position, the game ends in a draw, similar to Chess stalemate rules.
 
 - Threefold repetition: If the same exact board position occurs three times, the game is a draw.
+
+View the [full v1.0 rulebook](RULEBOOK.1.0.md) here to learn how to play in-depth.
