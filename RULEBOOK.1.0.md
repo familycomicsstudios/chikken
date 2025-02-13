@@ -46,8 +46,8 @@
 ### 3.2.4. Wolf (w/W)
 - **Movement:** A Wolf may move one square per turn in any direction.
 - **Capture Ability:**  
-  a. A Wolf may remove (capture) any Chicken or Rooster by moving into its square. Moving into this square requires you to remove the piece, but moving into the piece is never required.
-  b. A Wolf is expressly prohibited from capturing (i.e., “eating”) Dogs or other Wolves.
+  a. A Wolf may remove (capture) any Chicken by moving into its square. Moving into this square requires you to remove the piece, but moving into the piece is never required.
+  b. A Wolf is expressly prohibited from capturing (i.e., “eating”) Dogs, Roosters or other Wolves.
 
 ## 4. Notation
 4.1. **Piece Symbols.** The following symbols shall represent the game pieces:
