@@ -36,7 +36,7 @@
   d. A Rooster is prohibited from pushing a piece that is itself a Rooster or a Chicken.
 
 ### 3.2.3. Dog (d/D)
-- **Movement:** A Dog may move one square per turn in any direction.
+- **Movement:** A Dog may move to any square that is reachable by moving orthogonally (i.e., without moving diagonally) and without passing through any intervening pieces.
 - **Victory Objective:** The Dog's advancement to the opponent's back rank constitutes an immediate win for its owner (see Section 5).
 - **Push Ability:**  
   a. A Dog may push any adjacent piece one square in any direction, other than other dogs.
