@@ -39,7 +39,7 @@
 - **Movement:** A Dog may move one square per turn in any direction.
 - **Victory Objective:** The Dog's advancement to the opponent's back rank constitutes an immediate win for its owner (see Section 5).
 - **Push Ability:**  
-  a. A Dog may push any adjacent piece one square in any direction.
+  a. A Dog may push any adjacent piece one square in any direction, other than other dogs.
   b. The act of pushing shall conclude the Dog's turn.  
   c. A push is permitted only if the pushed piece would not be displaced into a square already occupied by another piece.
 
