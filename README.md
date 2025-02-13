@@ -52,13 +52,9 @@ Cannot move diagonally.
 
 Moves one square per turn in any direction.
 
-Removes Chickens and Roosters by moving into their square.
+Removes Chickens by moving into their square.
 
-Cannot eat Dogs or other Wolves.
-
-Moves one square per turn in any direction.
-
-Removes Chickens and Roosters by moving into their square.
+Cannot eat Dogs, Roosters, or other Wolves.
 
 ## Notation
 
