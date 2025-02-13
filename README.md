@@ -42,7 +42,7 @@ Moves one square per turn in any direction.
 
 Wins the game by reaching the opposite end of the board.
 
-Can push any adjacent piece in any direction.
+Can push any adjacent piece in any direction, other than other Dogs.
 
 Cannot push a piece if it would be pushed into another piece.
 
