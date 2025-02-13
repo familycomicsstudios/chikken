@@ -46,6 +46,8 @@ Can push any adjacent piece in any direction, other than other Dogs.
 
 Cannot push a piece if it would be pushed into another piece.
 
+Cannot move diagonally.
+
 ### Wolf (w/W)
 
 Moves one square per turn in any direction.
